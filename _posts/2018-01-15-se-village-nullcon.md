@@ -4,8 +4,6 @@ title: SEVillage NullCon 2018
 description: "SEVillage NullCon"
 category: blog
 modified: 2018-01-15
-comments: true
-share: true
 permalink: /articles/se-village-nullcon
 ---
 
