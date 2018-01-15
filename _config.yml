@@ -1,5 +1,5 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            'SE Village'
+description:      'Social Engineering Village @ NullCon'
 logo:             logo.png
 disqus_shortname: hmfaysal
 share:            true
@@ -11,16 +11,15 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Neelu Tripathy
+  avatar:         
+  email:          sevillage@alum.mit.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Security Consultant
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        sevillage
+  facebook:       sevillage
+  github:         sevillage      
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
@@ -37,12 +36,12 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
   - title: About
     url: /about
+  - title: Call For papers
+    url: /cfp
+  - title: Contact Us
+    url: /contactus
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
@@ -71,8 +70,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'https://sevillage.github.io/sevillage/'
+  relativeLinks: 'https://sevillage.github.io/sevillage/'
   media: 'images'
   metadata:
     _posts:
