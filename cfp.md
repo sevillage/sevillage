@@ -6,6 +6,7 @@ title: Call For Papers
 ---
 **CFP For SEVillage At NullCon 2018**
 
+<center><u><h1><a href='https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform'>Submit To CFP</a></h1></u></center>
 
 SEVillage is the first of its kind event in the info-sec scene in India. The event is a dynamic platform for understanding and applying the art and science of social engineering and come face to face with the advancements in this domain.
 
@@ -21,4 +22,4 @@ Below is a list of suggested topics for the submission:
 * Rise of the Machines (Social Engineering AI, ML &amp; IoT) 
 * Hacking the hacker: Social Engineering for defending the perimeter
 
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform" class="button">SUBMIT Your Paper</a></center>
+<center><u><h1><a href='https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform'>Submit To CFP</a></h1></u></center>
