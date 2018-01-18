@@ -2,9 +2,11 @@
 layout: post
 title: SEVillage NullCon 2018
 description: "SEVillage NullCon"
-category: blog
+category: articles
 modified: 2018-01-15
 permalink: /articles/se-village-nullcon
+comments: false
+share: false
 ---
 
 SE Village will again be present at NullCon 2018. We plan to host bunch of talks along with our Capture The Flag Event. 
