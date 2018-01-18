@@ -21,6 +21,4 @@ Below is a list of suggested topics for the submission:
 * Rise of the Machines (Social Engineering AI, ML &amp; IoT) 
 * Hacking the hacker: Social Engineering for defending the perimeter
 
-If you want to submit for CFP, Please use this form. 
-
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform" class="button">SUBMIT</a></center>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform" class="button">SUBMIT Your Paper</a></center>
