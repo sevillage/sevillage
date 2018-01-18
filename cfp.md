@@ -9,7 +9,7 @@ title: Call For Papers
 
 SEVillage is the first of its kind event in the info-sec scene in India. The event is a dynamic platform for understanding and applying the art and science of social engineering and come face to face with the advancements in this domain.
 
-Earn your speaking slot by sharing your research/tool/innovation around social engineering with us. An eminent team of experts will be reviewing your proposed paper and will select the best from the lot. So, are you Game?
+> Earn your speaking slot by sharing your research/tool/innovation around social engineering with us. An eminent team of experts will be reviewing your proposed paper and will select the best from the lot. So, are you Game?
 
 Below is a list of suggested topics for the submission:
 * Advanced Social Engineering Techniques
@@ -23,4 +23,4 @@ Below is a list of suggested topics for the submission:
 
 If you want to submit for CFP, Please use this form. 
 
-[Form Link](http://example.com)
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform" class="button">SUBMIT</a></center>
