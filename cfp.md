@@ -22,4 +22,4 @@ Below is a list of suggested topics for the submission:
 * Rise of the Machines (Social Engineering AI, ML &amp; IoT) 
 * Hacking the hacker: Social Engineering for defending the perimeter
 
-<center><u><h1><a href='https://docs.google.com/forms/d/e/1FAIpQLSd-dMgdeOjJr4E1VfycPXZ8ClLbm9Yn0kmCbNW7hYO3a5L0cQ/viewform'>Submit To CFP</a></h1></u></center>
+<center><u><h1><a href='mailto:sevillagenullcon@gmail.com'>Submit To CFP</a></h1></u></center>
