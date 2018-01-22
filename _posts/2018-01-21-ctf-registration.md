@@ -1,14 +1,13 @@
 ---
 layout: post
-title: CFP is OPEN
+title: 'Social Engineering Village: CTF Registration Announcement'
 description: "Social Engineering Village: CTF Registration Announcement"
 category: articles
 modified: 2018-01-21
 permalink: /articles/ctf-registration-nullcon-2018
 comments: false
 share: false
----
-
+---	
 CTF Registration Closes: 23rd Feb, 2018
 Where: Nullcon 2018, Holiday Inn, Goa
 
