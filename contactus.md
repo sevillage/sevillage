@@ -8,5 +8,3 @@ Meet the awesome team behind the village.
 
 * Neelu Tripathy
 * Shobit Gautam
-
-

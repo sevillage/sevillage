@@ -16,10 +16,10 @@ Where: Nullcon 2018, Holiday Inn, Goa
 It’s that time of the year when you wear your wit hats and figure the loopholes in human side of technology. So, gather your spartans and create your team to battle at the Social Engineering CTF this year and claim your trophy.
 
 ### What is the CTF About?
-The CTF will consist of four rounds which will involve information gathering, phishing/calling and attack scenarios focussed on social engineering. Teams will receive a set flags to be collected in each of these rounds. Those with highest number of correct flags secures the opportunity to enter the SE battle ground at SE Village Nullcon. Final winners(top three) take it all!
+The CTF will consist of four rounds which will involve information gathering, phishing/calling and attack scenarios focussed on social engineering. Teams will receive a set flags to be collected in each of these rounds. Those with highest number of correct flags secures the opportunity to enter the SE battle ground at Social Engineering Village Nullcon. Final winners(top three) take it all!
 
 ### When?
-The SE Village CTF will be held during 2nd-3rd Mar, 2018. The detailed schedule for the SE Village along with the talks will be announced shortly.
+The Social Engineering Village CTF will be held during 2nd-3rd Mar, 2018. The detailed schedule for the Social Engineering Village along with the talks will be announced shortly.
 
 ### Registration:
 Participants for final rounds of the SE CTF(Nullcon) will be selected ONLY from winners of the preliminary rounds which will be held in Feb. Hence, registration is mandatory. So, hurry!
