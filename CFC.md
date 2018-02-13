@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /CFC
-title: Call For Papers
+title: Call For Companies
 
 ---
 <center><h1>CFC For Social Engineering Village, NullCon 2018 is OPEN.</h1></center><br>
