@@ -18,5 +18,5 @@ This is a call for companies to associate with the Social Engineering Village at
 
 The CTF event at Social Engineering Village, Nullcon is an excellent opportunity for your organization to assess your SE Quotient. Additionaly, the village will extend sponsorship benefits to the participating entity/company.
 
-To start the association and know more about this, please contact us.
+To start the association and know more about this, please contact us from your company email-id.
 <center><u><h1><a href='mailto:sevillagenullcon@gmail.com'>Submit To CFC</a></h1></u></center>
