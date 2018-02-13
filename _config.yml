@@ -37,6 +37,8 @@ links:
     icon: home
   - title: About
     url: /about
+  - title: Call For Company
+    url: /CFC
   - title: Contact Us
     url: /contactus
 

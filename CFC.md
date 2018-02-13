@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: /CFC
+title: Call For Papers
+
+---
+<center><h1>CFC For Social Engineering Village, NullCon 2018 is OPEN.</h1></center><br>
+
+<center><u><h1><a href='mailto:sevillagenullcon@gmail.com'>Submit To CFC</a></h1></u></center>
+
+Social Engineering Village is the first of its kind event in the info-sec scene in India. The event is a dynamic platform for understanding and applying the art and science of social engineering and come face to face with the advancements in this domain.
+
+> Inviting Companies to associate with Social Engineering Village for its Capture The Flag Event @ Nullcon 2018.
+
+This is a call for companies to associate with the Social Engineering Village at Nullcon and leverage the potential of the Info Sec community. All companies that store, use or serve their data online are eligible and can apply.
+
+### Company Benefits
+
+The CTF event at Social Engineering Village, Nullcon is an excellent opportunity for your organization to assess your SE Quotient. Additionaly, the village will extend sponsorship benefits to the participating entity/company.
+
+To start the association and know more about this, please contact us.
+<center><u><h1><a href='mailto:sevillagenullcon@gmail.com'>Submit To CFC</a></h1></u></center>
