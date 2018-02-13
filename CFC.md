@@ -6,6 +6,9 @@ title: Call For Companies
 ---
 <center><h1>CFC For Social Engineering Village, NullCon 2018 is OPEN.</h1></center><br>
 
+Call For Companies Closes: 28th Feb, 2018
+Where: Nullcon 2018, Holiday Inn, Goa
+
 <center><u><h1><a href='mailto:sevillagenullcon@gmail.com'>Submit To CFC</a></h1></u></center>
 
 Social Engineering Village is the first of its kind event in the info-sec scene in India. The event is a dynamic platform for understanding and applying the art and science of social engineering and come face to face with the advancements in this domain.
