@@ -11,7 +11,7 @@ With the advent of information overload and human involvement in corporate decis
 
 > We proudly announce our Sponsor who helped further the cause and awareness for the Village
 
-<center><h1>SMOKESCREEN</h1></center><br>
+<center><img src="https://www.smokescreen.io/wp-content/uploads/2016/04/logo7-1.png"></center><br>
 
 To know more about the company visit them at their website<u><a href='https://www.smokescreen.io/'>smokescreen.io</a></u>
 
