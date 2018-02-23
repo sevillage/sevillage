@@ -9,12 +9,35 @@ title: Sponsors
 
 With the advent of information overload and human involvement in corporate decision making, social engineering has become a practical threat. The social engineering village is an attempt to spread awareness regarding the dangers of this and promote proactive defences around this prevalent attack technique. 
 
-> We proudly announce our Sponsor who helped further the cause and awareness for the Village
+> We proudly announce our Sponsors who helped further the cause and awareness for the Village
+<p></br></br></p>
+
+<p></br></br></p>
 
 <center><img src="https://www.smokescreen.io/wp-content/uploads/2016/04/logo7-1.png"></center><br>
 
-To know more about the company visit them at their website<u><a href='https://www.smokescreen.io/'>smokescreen.io</a></u>
+<center><u><a href='https://www.smokescreen.io/'>smokescreen.io</a></u></center>
+
+<p></br></br></p>
+
+<table style="width:50%" align="center">
+	
+
+	<tr>
+		<td><img src="netmonastery.jpg"></td>                    
+		<td><img src="Kaspersky_Lab_logo.png"></td>
+				
+	</tr>
+	<tr>
+		<td><center><u><a href='https://www.dnif.it/'>dnif.it</a></u></td></center>
+		                                                    
+		<td><center><u><a href='https://www.kaspersky.co.in/'>kaspersky.co.in</a></u></center></td>		
+	</tr>
+
+</table>
+
+<p></br></br></br></br></p>
 
 
 
-For sponsorship oppotunities <u><a href='mailto:sevillagenullcon@gmail.com'>Contact SE Village</a></u>
+<center>For sponsorship oppotunities <u><a href='mailto:sevillagenullcon@gmail.com'>Contact</a></u> SE Village</center>
