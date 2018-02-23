@@ -22,15 +22,15 @@ With the advent of information overload and human involvement in corporate decis
 <br>
 
 <table style="width:50%" align="center">
-	<tr>
-		<td><img src="netmonastery.jpg"></td>                    
-		<td><img src="Kaspersky_Lab_logo.png"></td>
-	</tr>
-	<tr>
-		<td><center><u><a href='https://www.dnif.it/'>dnif.it</a></u></center></td>
+		<tr>
+			<th><img src="netmonastery.jpg"></th>
+			<th><img src="Kaspersky_Lab_logo.png"></th>
+		</tr>
+		<tr>
+			<td><center><u><a href='https://www.dnif.it/'>dnif.it</a></u></center></td>
 	                                                    
-		<td><center><u><a href='https://www.kaspersky.co.in/'>kaspersky.co.in</a></u></center></td>		
-	</tr>
+			<td><center><u><a href='https://www.kaspersky.co.in/'>kaspersky.co.in</a></u></center></td>		
+		</tr>
 </table>
 
 <br>
