@@ -10,7 +10,7 @@ title: Sponsors
 With the advent of information overload and human involvement in corporate decision making, social engineering has become a practical threat. The social engineering village is an attempt to spread awareness regarding the dangers of this and promote proactive defences around this prevalent attack technique. 
 
 > We proudly announce our Sponsors who helped further the cause and awareness for the Village
-<p></br></br></p>
+
 
 
 
@@ -22,19 +22,15 @@ With the advent of information overload and human involvement in corporate decis
 <br>
 
 <table style="width:50%" align="center">
-	
-
 	<tr>
 		<td><img src="netmonastery.jpg"></td>                    
 		<td><img src="Kaspersky_Lab_logo.png"></td>
-				
 	</tr>
 	<tr>
 		<td><center><u><a href='https://www.dnif.it/'>dnif.it</a></u></td></center>
-		                                                    
+	                                                    
 		<td><center><u><a href='https://www.kaspersky.co.in/'>kaspersky.co.in</a></u></center></td>		
 	</tr>
-
 </table>
 
 <br>
