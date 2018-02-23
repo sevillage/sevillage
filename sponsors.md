@@ -13,14 +13,16 @@ With the advent of information overload and human involvement in corporate decis
 
 
 
-<center><a href="https://www.smokescreen.io/" target="_blank"><img src="https://www.smokescreen.io/wp-content/uploads/2016/04/logo7-1.png" height="100" width="400" /></a><br /><br />
+<center><br /><br />
 
-<a href="https://www.dnif.it/" target="_blank"><img src="netmonastery.jpg" height="200" width="200" /></a><br /><br />
+<a href="https://www.smokescreen.io/" target="_blank"><img src="https://www.smokescreen.io/wp-content/uploads/2016/04/logo7-1.png" height="100" width="400" /></a><br /><br /><br />
 
 <a href="https://www.kaspersky.co.in/" target="_blank"><img src="Kaspersky_Lab_logo.png" height="100" width="400" /></a><br /><br /><br />
+
+<a href="https://www.dnif.it/" target="_blank"><img src="netmonastery.jpg" height="200" width="200" /></a><br /><br /><br />
+
+
 </center>
 
 
-
-
-<center>For sponsorship oppotunities <u><a href='mailto:sevillagenullcon@gmail.com'>Contact</a></u> SE Village</center>
+<center><i>For sponsorship oppotunities <u><a href='mailto:sevillagenullcon@gmail.com'>Contact</a></u> SE Village</i></center>
