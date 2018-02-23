@@ -14,8 +14,8 @@ With the advent of information overload and human involvement in corporate decis
 
 
 
-<center><img src="https://www.smokescreen.io/wp-content/uploads/2016/04/logo7-1.png"></center><br>
-
+<center><img src="https://www.smokescreen.io/wp-content/uploads/2016/04/logo7-1.png"></center>
+<br>
 <center><u><a href='https://www.smokescreen.io/'>smokescreen.io</a></u></center>
 
 <br>
@@ -27,7 +27,7 @@ With the advent of information overload and human involvement in corporate decis
 		<td><img src="Kaspersky_Lab_logo.png"></td>
 	</tr>
 	<tr>
-		<td><center><u><a href='https://www.dnif.it/'>dnif.it</a></u></td></center>
+		<td><center><u><a href='https://www.dnif.it/'>dnif.it</a></u></center></td>
 	                                                    
 		<td><center><u><a href='https://www.kaspersky.co.in/'>kaspersky.co.in</a></u></center></td>		
 	</tr>
