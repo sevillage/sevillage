@@ -11,7 +11,9 @@ share: false
 CTF Registration Closes: 02 March, 2018 (1 PM)
 Where: Nullcon 2018, Holiday Inn, Goa
 
-Note: The date for registration for the CTF has been extended and teams can register till 02 March, 2018 (1 PM)
+Note: The date for registration for the CTF has been extended and teams can register till 02 March, 2018
+Onsite Registrations CLOSE between 11:00 AM to 1 PM on 02 March, to be followed by CTF Round I.
+Venue: Holiday Inn(Exact location to be tweeted shortly)
 
 ## *Registration for Social Engineering Village at Nullcon 2018 is now open!*
 
