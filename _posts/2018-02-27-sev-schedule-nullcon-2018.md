@@ -15,9 +15,9 @@ share: false
 When: 2nd & 3rd March, 2018<br>
 Where: Nullcon 2018, Holiday Inn, Goa<br>
 
-The schedule for the Social Engineering Village and CTF is out. Alongside a challenging CTF, we have some exciting talks this year!<br>
+The schedule for the Social Engineering Village and CTF, is out. Alongside a challenging CTF, we have some exciting talks this year!<br>
 
-</center>
+
 <center>
 <table style="width:50%" border="1">
   <tr>
