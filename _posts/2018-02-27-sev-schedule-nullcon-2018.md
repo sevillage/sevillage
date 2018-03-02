@@ -54,6 +54,9 @@ The schedule for the Social Engineering Village and CTF, is out. Alongside a cha
 </center>
 
 
+### Guest Speaker
+
+We are glad to announce our guest speaker for this year! Jason Haddix will be speaking @ the Social Engineering Village on 03 March. The speaker will focus on the role of OSINT in Social Engineering.
 
 ### Registration:
 To register please provide your team details [here](https://docs.google.com/forms/d/1gz77Re5W3woHCcYVU3XhmaUJi5zM6CMdcvEr8o7vFGY/)

@@ -22,12 +22,16 @@ It’s that time of the year when you wear your wit hats and figure the loophole
 ### What is the CTF About?
 The CTF will consist of four rounds which will involve information gathering, phishing/calling and attack scenarios focussed on social engineering. Teams will receive a set flags to be collected in each of these rounds. Those with highest number of correct flags secure the opportunity to enter the SE battle ground at Social Engineering Village Nullcon. Final winners take it all!
 
+All contestants are to carry at least ONE laptop and back up internet connectivity for participating in the SE Village CTF.
+
 ### When?
 The Social Engineering Village CTF will be held during 2nd and 3rd March, 2018. The Village will run the CTF challenges and some awesome talks simutaneously.
 
 ### Registration:
 Participants for final rounds of the SE CTF(Nullcon) will be selected from winners of the preliminary rounds. We have loads of prizes this year, So hurry!
 To register please provide your team details [here](https://docs.google.com/forms/d/1gz77Re5W3woHCcYVU3XhmaUJi5zM6CMdcvEr8o7vFGY/)
+
+OnSite registrations: Please check location at the reception desk.
 
 > Rules:
 Some of the rounds involve the use of OSINT techniques to gather flags. You may use all publicly available sources such as search engines, social networks, target domains, OSINT tools, or other forms of passive reconnaissance. However, any use of active recon or interaction such as calls, fax, emails or contacting in any way is strictly prohibited.
