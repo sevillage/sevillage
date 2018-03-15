@@ -34,9 +34,9 @@ This archive is a collection of media and resources from previous years of SE Vi
     <td><a href="/archives/sev-2017.html" target="_blank"><img src="../images/sev-logo-white.jpg" height="200" width="300" /></a><br><br></td>
   </tr>
 
-    <tr>
-    <td><a href="/archives/sev-2016.html" target="_blank"><img src="../images/sev-logo-white.jpg" height="200" width="300" /></a><br><br></th>
-    <td><b>SE Village 2016</b><br>The Social Engineering Village 2016 was held in Nullcon, on March 11th, 2016 at Bogmallo Beach Resort in Goa<br> <br /></th> 
+  <tr>
+    <td><a href="/archives/sev-2016.html" target="_blank"><img src="../images/sev-logo-white.jpg" height="200" width="300" /></a><br><br></td>
+    <td><b>SE Village 2016</b><br>The Social Engineering Village 2016 was held in Nullcon, on March 11th, 2016 at Bogmallo Beach Resort in Goa<br> <br /></td>
   </tr>
 </table>
 
