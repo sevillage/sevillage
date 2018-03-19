@@ -13,4 +13,4 @@ Social Engineering Village will again be present at NullCon 2018. We plan to hos
 
 We are super excited to host you guys and organize another challenging CTF contest. But this time, we are also inviting best industry minds to come and talk about their research work in field of Social Engineering. 
 
-Our Call For Papers will be out very soon. Keep an eye and Stay Tuned.
+Our SECTF Registrations will be out very soon. Keep an eye and Stay Tuned.

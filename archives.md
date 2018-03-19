@@ -15,11 +15,11 @@ title: Archives
 <center>
  <br>The SE Village at Nullcon is an attempt to spread awareness regarding the dangers of social engineering in corporates.  <br />
  <br>The goal of the event is to promote proactive defences around this prevalent attack technique in the industry and nation states.<br />
-
- <br>This archive is a collection of media and resources from previous years of SE Village and CTF at Nullcon. Material here is for reference only and is provided free of charge to the readers.
+ <br>This archive is a collection of media and resources from previous years of SE Village and CTF at Nullcon. <br />
+ <br>Material here is for reference only and is provided free of charge to the readers.<br />
 </center> 
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 <center>
 <table style="width:60%" border="0">

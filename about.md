@@ -2,7 +2,7 @@
 layout: page
 permalink: /about
 title: About Us
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+tags: [Social, engineering]
 imagefeature: fourseasons.jpg
 ---
 Social Engineering Village is the first of its kind event in the info-sec scene in India. The event is a dynamic platform for understanding and applying the art and science of social engineering and come face to face with the advancements in this domain.

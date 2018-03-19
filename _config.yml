@@ -16,8 +16,8 @@ owner:
   email:          sevillagenullcon@gmail.com
   description:    Security Consultant
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        sevillagenullcon
-  facebook:       sevillagenullcon
+  twitter:        NeeluTripathy
+  facebook:       
   github:         sevillage   
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/101034987236588427376
@@ -47,7 +47,7 @@ links:
     url: /archives
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Asia/Kolkata
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -115,18 +115,18 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
+            - name: "Social"
+              value: SocialMedia
             - name: "Engineering"
               value: engineering
-            - name: "Physics"
-              value: physics
+            - name: "Phishing"
+              value: Phishing
             - name: "Psychology"
               value: psychology
-            - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "Vishing"
+              value: Vishing
+            - name: "Fraud"
+              value: Fraud
           alterable: true
       - name: "tags"
         field:
